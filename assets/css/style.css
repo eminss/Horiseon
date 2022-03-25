@@ -8,8 +8,6 @@ body {
     background-color: #d9dcd6;
 }
 
-
-
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -28,9 +26,9 @@ body {
 
 /* header links */
 
-.header div {
+.header ul {
     padding-top: 15px;
-    margin-right: 20px;
+    padding-bottom: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
@@ -165,6 +163,11 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+/* .content .float-left {
+    max-height: 200px;
+} */
+
 
 .search-engine-optimization img {
     max-height: 200px;
